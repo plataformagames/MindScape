@@ -1,20 +1,20 @@
 # Game Name
-  Jogo Teste
+
 ## Description:
-  Teste de integracao contínua
+   Breve descrição do jogo. Os dados de cada tópico devem conter um tab em seu início. Obedeça a formatação exata deste template.
 
 ## Version:
-   1.1
+   Versão do jogo. Exemplo: 1.0, 2.0...
 
 ## Year:
-   2019
+   Ano de lançamento do jogo.
 
 ## Repository:
-  https://github.com/mateusvroriz/SimplePlataformer
+   Link do repositório oficial do jogo.
 
 ## Awards:
-   - Melhor Soundtrack
-   - Melhor Arte
+   - Melhor jogo da categoria
+   - Melhor jogabilidade
 
 ## Gallery:
 ### Cover Image:
@@ -31,14 +31,20 @@
 
 ## Genre:
    - Rpg
-   - Teste
+   - Luta
+   - Guerra
 
 ### Developers:
-   - Caio
-   - Mateus
+   - Desenvolvedor 1
+   - Desenvolvedor 2
+   - Desenvolvedor N
 
 ### Designers:
-   - Eduardo
+   - Artista 1
+   - Artista 2
+   - Artista N
 
 ### Musicians:
-   - Lucas
+   - Músico 1
+   - Músico 2
+   - Músico N

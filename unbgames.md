@@ -1,20 +1,21 @@
-# Game Name
+# MindScape
 
 ## Description:
-   Breve descrição do jogo. Os dados de cada tópico devem conter um tab em seu início. Obedeça a formatação exata deste template.
+   MindScape é um jogo plataforma com elementos de terror e suspense. Como o jogo se situa na mente da protagonista, há monstros surreais que são criados com base em seus medos.
+
+   Além disso, o jogo trará a arte como elemento de história do jogo. Nas fases iniciais, haverá a presença de muitas cores que eventualmente vão desbotando e ficando preto e branco, para demonstrar a ciência da menina de sua própria situação.
 
 ## Version:
-   Versão do jogo. Exemplo: 1.0, 2.0...
+   1.2
 
 ## Year:
-   Ano de lançamento do jogo.
+   2017
 
 ## Repository:
-   Link do repositório oficial do jogo.
+   https://github.com/unbgames/mindscape
 
 ## Awards:
    - Melhor jogo da categoria
-   - Melhor jogabilidade
 
 ## Gallery:
 ### Cover Image:
@@ -30,14 +31,13 @@
    <p align="center"><img width="400"src="https://github.com/unbgames/game-template/blob/master/gallery_img/image_gallery/game7.jpg"></p>
 
 ## Genre:
-   - Rpg
-   - Luta
-   - Guerra
+   - Suspense
 
 ### Developers:
-   - Desenvolvedor 1
-   - Desenvolvedor 2
-   - Desenvolvedor N
+   - Luan Guimarães
+   - Lucas Soares
+   - Matheus Miranda
+   - Victor Navarro
 
 ### Designers:
    - Artista 1
